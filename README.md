@@ -13,4 +13,4 @@ skills progress tracker is a Python-based command line Task Management app with 
 ## Contributors
 @levy_naibei  -- @justin_m  -- @pmusonye  -- @njirutitus  -- @jimkiiru12  -- @rey
 
-#licence
+##licence
